@@ -1,0 +1,505 @@
+﻿invoice_no;customer_id;gender;age;category;quantity;price;payment_method;invoice_date;shopping_mall;category_item_id
+I100001;C313884;Female;28.0;Clothing;2.0;600,16;Credit Card;2023-05-18;Istinye Park;ITM-102
+I100002;C311565;Male;22.0;Technology;1.0;2100,00;Credit Card;2024-02-12;Zorlu Center;ITM-105
+I100003;C366599;Male;20.0;Clothing;1.0;300,08;Cash;2023-09-11;Metrocity;ITM-103
+I100004;C388172;Female;66.0;Books;5.0;75,75;Credit Card;2024-01-28;Metropol AVM;ITM-108
+I100005;C389076;Female;53.0;Cosmetics;4.0;162,64;Cash;2023-10-24;Cevahir AVM;ITM-112
+I100006;C335761;Female;56.0;Food & Beverage;5.0;26,15;Credit Card;2024-03-04;Kanyon;ITM-115
+I100007;C331672;Male;30.0;Shoes;2.0;600,16;Credit Card;2023-07-23;Zorlu Center;ITM-116
+I100008;C340286;Male;34.0;Food & Beverage;1.0;5,23;Cash;2024-09-26;Forum Istanbul;ITM-115
+I100009;C321970;Male;46.0;Technology;1.0;5250,00;Credit Card;2023-12-25;Istinye Park;ITM-104
+I100010;C329330;Female;63.0;Books;3.0;45,45;Credit Card;2024-08-13;Metrocity;ITM-109
+I100011;C316297;Female;34.0;Souvenir;2.0;41,90;Credit Card;2023-09-28;Istinye Park;ITM-121
+I100012;C362286;Female;36.0;Clothing;2.0;600,16;Credit Card;2024-01-28;Zorlu Center;ITM-101
+I100013;C342953;Male;43.0;Technology;1.0;2100,00;Cash;2023-05-27;Metropol AVM;ITM-104
+I100014;C324354;Male;41.0;Food & Beverage;5.0;26,15;Credit Card;2024-08-16;Kanyon;ITM-115
+I100015;C373183;Female;25.0;Clothing;4.0;1200,32;Debit Card;2023-01-05;Cevahir AVM;ITM-102
+I100016;C346228;Male;37.0;Shoes;2.0;600,16;Cash;2024-03-19;Metropol AVM;ITM-116
+I100017;C391127;Female;48.0;Cosmetics;1.0;40,66;Credit Card;2023-04-12;Istinye Park;ITM-111
+I100018;C389393;Female;19.0;Clothing;4.0;1200,32;Credit Card;2024-11-17;Zorlu Center;ITM-102
+I100019;C384242;Male;51.0;Technology;1.0;5250,00;Debit Card;2023-02-09;Forum Istanbul;ITM-105
+I100020;C323237;Male;32.0;Shoes;2.0;600,16;Credit Card;2024-06-21;Kanyon;ITM-116
+I100021;C331388;Female;39.0;Food & Beverage;3.0;15,69;Cash;2023-09-03;Metrocity;ITM-114
+I100022;C313341;Female;29.0;Clothing;1.0;300,08;Credit Card;2024-10-01;Cevahir AVM;ITM-101
+I100023;C332145;Male;44.0;Toys;5.0;179,20;Debit Card;2023-07-07;Metropol AVM;ITM-123
+I100024;C311440;Female;68.0;Books;3.0;45,45;Cash;2024-01-15;Zorlu Center;ITM-109
+I100025;C395251;Male;26.0;Technology;2.0;4200,00;Credit Card;2023-02-28;Istinye Park;ITM-106
+I100026;C361833;Female;55.0;Food & Beverage;5.0;26,15;Credit Card;2024-04-04;Kanyon;ITM-113
+I100027;C332948;Male;22.0;Shoes;1.0;300,08;Cash;2023-12-30;Forum Istanbul;ITM-118
+I100028;C393235;Male;24.0;Clothing;2.0;600,16;Credit Card;2024-05-20;Metrocity;ITM-103
+I100029;C381223;Female;61.0;Shoes;4.0;1200,32;Debit Card;2023-06-14;Metropol AVM;ITM-117
+I100030;C373934;Male;49.0;Books;1.0;15,15;Credit Card;2024-11-08;Zorlu Center;ITM-107
+I100031;C320810;Female;31.0;Technology;3.0;6300,00;Credit Card;2023-09-02;Istinye Park;ITM-105
+I100032;C337079;Female;45.0;Clothing;5.0;1500,40;Credit Card;2024-08-11;Cevahir AVM;ITM-102
+I100033;C357833;Male;38.0;Food & Beverage;2.0;10,46;Cash;2023-06-01;Kanyon;ITM-114
+I100034;C311831;Male;58.0;Technology;1.0;5250,00;Debit Card;2024-03-15;Forum Istanbul;ITM-105
+I100035;C334666;Female;42.0;Clothing;3.0;900,24;Credit Card;2023-02-18;Metrocity;ITM-102
+I100036;C383489;Female;50.0;Souvenir;4.0;83,80;Credit Card;2024-10-21;Istinye Park;ITM-120
+I100037;C314533;Female;27.0;Cosmetics;2.0;81,32;Cash;2023-01-09;Zorlu Center;ITM-111
+I100038;C390461;Male;33.0;Shoes;2.0;600,16;Credit Card;2024-04-26;Metropol AVM;ITM-116
+I100039;C323334;Male;23.0;Toys;3.0;107,52;Debit Card;2023-12-07;Cevahir AVM;ITM-124
+I100040;C338106;Female;72.0;Books;5.0;75,75;Credit Card;2024-07-30;Kanyon;ITM-108
+I100041;C318227;Female;35.0;Clothing;4.0;1200,32;Credit Card;2023-08-22;Metrocity;ITM-102
+I100042;C363773;Male;60.0;Technology;3.0;15750,00;Cash;2024-09-17;Forum Istanbul;ITM-105
+I100043;C354833;Male;47.0;Food & Beverage;1.0;5,23;Debit Card;2023-05-13;Istinye Park;ITM-114
+I100044;C387391;Female;41.0;Shoes;1.0;300,08;Credit Card;2024-03-03;Metropol AVM;ITM-117
+I100045;C368615;Male;54.0;Cosmetics;2.0;81,32;Cash;2023-06-25;Zorlu Center;ITM-111
+I100046;C363056;Female;29.0;Clothing;2.0;600,16;Credit Card;2024-10-18;Cevahir AVM;ITM-103
+I100047;C387011;Female;33.0;Food & Beverage;4.0;20,92;Debit Card;2023-01-24;Kanyon;ITM-115
+I100048;C340163;Male;28.0;Toys;1.0;35,84;Cash;2024-04-09;Metrocity;ITM-123
+I100049;C343727;Female;40.0;Technology;1.0;2100,00;Credit Card;2023-02-11;Forum Istanbul;ITM-106
+I100050;C393622;Female;57.0;Books;2.0;30,30;Credit Card;2024-09-14;Istinye Park;ITM-107
+I100051;C378313;Male;19.0;Shoes;3.0;900,24;Debit Card;2023-08-29;Metropol AVM;ITM-117
+I100052;C359293;Male;29.0;Clothing;1.0;300,08;Credit Card;2024-11-23;Cevahir AVM;ITM-101
+I100053;C377268;Female;38.0;Cosmetics;3.0;121,98;Cash;2023-05-01;Zorlu Center;ITM-110
+I100054;C393291;Female;44.0;Food & Beverage;5.0;26,15;Credit Card;2024-01-18;Kanyon;ITM-114
+I100055;C351952;Male;52.0;Technology;2.0;4200,00;Debit Card;2023-07-06;Forum Istanbul;ITM-106
+I100056;C399430;Female;36.0;Shoes;4.0;1200,32;Credit Card;2024-12-12;Metrocity;ITM-116
+I100057;C353321;Male;65.0;Books;3.0;45,45;Cash;2023-02-03;Istinye Park;ITM-108
+I100058;C382667;Female;47.0;Clothing;2.0;600,16;Credit Card;2024-10-29;Metropol AVM;ITM-101
+I100059;C336531;Male;35.0;Souvenir;5.0;104,75;Debit Card;2023-06-16;Zorlu Center;ITM-119
+I100060;C345083;Male;64.0;Cosmetics;2.0;81,32;Credit Card;2024-03-22;Akasya;ITM-110
+I100061;C332862;Female;23.0;Toys;3.0;107,52;Cash;2023-11-01;Emaar Square Mall;ITM-122
+I100062;C378837;Male;18.0;Technology;4.0;8400,00;Credit Card;2024-08-05;Istinye Park;ITM-106
+I100063;C376160;Female;33.0;Shoes;5.0;1500,40;Debit Card;2023-07-14;Cevahir AVM;ITM-116
+I100064;C339983;Male;45.0;Books;1.0;15,15;Cash;2024-04-28;Kanyon;ITM-107
+I100065;C365282;Female;59.0;Food & Beverage;2.0;10,46;Credit Card;2023-10-10;Metropol AVM;ITM-113
+I100066;C382336;Female;26.0;Clothing;2.0;600,16;Credit Card;2024-09-05;Zorlu Center;ITM-103
+I100067;C313611;Male;39.0;Souvenir;3.0;62,85;Debit Card;2023-12-19;Forum Istanbul;ITM-119
+I100068;C359583;Male;70.0;Technology;5.0;26250,00;Credit Card;2024-02-23;Metrocity;ITM-104
+I100069;C357748;Female;43.0;Cosmetics;4.0;162,64;Cash;2023-05-30;Akasya;ITM-112
+I100070;C348239;Female;51.0;Food & Beverage;1.0;5,23;Credit Card;2024-08-18;Emaar Square Mall;ITM-115
+I100071;C341163;Male;24.0;Shoes;2.0;600,16;Debit Card;2023-07-12;Istinye Park;ITM-118
+I100072;C316411;Male;32.0;Clothing;3.0;900,24;Credit Card;2024-06-03;Cevahir AVM;ITM-101
+I100073;C393339;Female;28.0;Books;5.0;75,75;Cash;2023-03-08;Kanyon;ITM-109
+I100074;C368481;Female;46.0;Toys;2.0;71,68;Credit Card;2024-11-20;Metropol AVM;ITM-124
+I100075;C318677;Male;37.0;Technology;2.0;4200,00;Debit Card;2023-10-25;Zorlu Center;ITM-104
+I100076;C312338;Female;62.0;Cosmetics;1.0;40,66;Credit Card;2024-01-31;Forum Istanbul;ITM-112
+I100077;C350873;Male;55.0;Food & Beverage;4.0;20,92;Cash;2023-04-14;Metrocity;ITM-113
+I100078;C396962;Female;22.0;Clothing;5.0;1500,40;Credit Card;2024-12-28;Akasya;ITM-102
+I100079;C333283;Male;31.0;Shoes;4.0;1200,32;Debit Card;2023-09-22;Emaar Square Mall;ITM-118
+I100080;C319630;Male;40.0;Souvenir;2.0;41,90;Cash;2024-08-27;Istinye Park;ITM-120
+I100081;C335332;Female;34.0;Technology;3.0;6300,00;Credit Card;2023-02-13;Cevahir AVM;ITM-104
+I100082;C383031;Female;48.0;Books;3.0;45,45;Credit Card;2024-06-07;Kanyon;ITM-109
+I100083;C315283;Male;25.0;Toys;4.0;143,36;Debit Card;2023-02-01;Metropol AVM;ITM-122
+I100084;C345136;Male;53.0;Food & Beverage;2.0;10,46;Cash;2024-05-04;Zorlu Center;ITM-114
+I100085;C385333;Female;29.0;Clothing;1.0;300,08;Credit Card;2023-11-12;Forum Istanbul;ITM-101
+I100086;C361899;Female;67.0;Cosmetics;5.0;203,30;Credit Card;2024-10-06;Metrocity;ITM-112
+I100087;C395596;Male;36.0;Shoes;1.0;300,08;Debit Card;2023-07-21;Akasya;ITM-118
+I100088;C389523;Male;42.0;Technology;1.0;5250,00;Cash;2024-04-16;Emaar Square Mall;ITM-105
+I100089;C346726;Female;30.0;Food & Beverage;3.0;15,69;Credit Card;2023-03-24;Istinye Park;ITM-113
+I100090;C316161;Female;49.0;Clothing;2.0;600,16;Credit Card;2024-01-27;Cevahir AVM;ITM-103
+I100091;C359648;Male;20.0;Books;4.0;60,60;Debit Card;2023-08-01;Kanyon;ITM-108
+I100092;C348493;Female;56.0;Toys;2.0;71,68;Cash;2024-05-25;Metropol AVM;ITM-124
+I100093;C369553;Male;61.0;Souvenir;1.0;20,95;Credit Card;2023-11-30;Zorlu Center;ITM-121
+I100094;C320024;Female;38.0;Shoes;3.0;900,24;Credit Card;2024-02-20;Forum Istanbul;ITM-116
+I100095;C357077;Male;27.0;Cosmetics;2.0;81,32;Debit Card;2023-07-17;Metrocity;ITM-112
+I100096;C331145;Female;44.0;Technology;2.0;4200,00;Cash;2024-04-02;Akasya;ITM-104
+I100097;C373343;Male;50.0;Food & Beverage;5.0;26,15;Credit Card;2023-09-08;Emaar Square Mall;ITM-115
+I100098;C326310;Female;31.0;Clothing;4.0;1200,32;Credit Card;2024-12-03;Istinye Park;ITM-102
+I100099;C345657;Male;35.0;Books;5.0;75,75;Debit Card;2023-08-14;Cevahir AVM;ITM-109
+I100100;C334283;Female;28.0;Toys;1.0;35,84;Cash;2024-05-19;Kanyon;ITM-122
+I100101;C364345;Male;23.0;Shoes;2.0;600,16;Credit Card;2023-10-14;Metropol AVM;ITM-116
+I100102;C349448;Female;58.0;Cosmetics;3.0;121,98;Credit Card;2024-06-29;Zorlu Center;ITM-111
+I100103;C372331;Male;41.0;Technology;3.0;6300,00;Debit Card;2023-01-22;Forum Istanbul;ITM-106
+I100104;C353213;Female;63.0;Food & Beverage;2.0;10,46;Cash;2024-04-06;Metrocity;ITM-115
+I100105;C346036;Female;39.0;Clothing;1.0;300,08;Credit Card;2023-03-27;Akasya;ITM-102
+I100106;C389954;Male;48.0;Souvenir;2.0;41,90;Credit Card;2024-08-23;Emaar Square Mall;ITM-121
+I100107;C317955;Male;52.0;Books;2.0;30,30;Debit Card;2023-02-15;Istinye Park;ITM-109
+I100108;C317277;Female;33.0;Shoes;5.0;1500,40;Cash;2024-10-11;Cevahir AVM;ITM-116
+I100109;C391583;Female;26.0;Toys;4.0;143,36;Credit Card;2023-07-01;Kanyon;ITM-124
+I100110;C359974;Male;30.0;Technology;1.0;2100,00;Credit Card;2024-11-26;Metropol AVM;ITM-106
+I100111;C314227;Female;45.0;Cosmetics;4.0;162,64;Debit Card;2023-09-19;Zorlu Center;ITM-111
+I100112;C349876;Male;21.0;Clothing;3.0;900,24;Cash;2024-04-24;Forum Istanbul;ITM-102
+I100113;C322942;Female;57.0;Food & Beverage;3.0;15,69;Credit Card;2023-06-20;Metrocity;ITM-113
+I100114;C370724;Male;66.0;Books;1.0;15,15;Credit Card;2024-05-16;Akasya;ITM-109
+I100115;C351342;Female;22.0;Shoes;2.0;600,16;Debit Card;2023-12-08;Emaar Square Mall;ITM-118
+I100116;C338634;Male;43.0;Souvenir;3.0;62,85;Cash;2024-01-04;Istinye Park;ITM-121
+I100117;C312214;Female;37.0;Technology;2.0;10500,00;Credit Card;2023-02-08;Cevahir AVM;ITM-104
+I100118;C371312;Male;51.0;Clothing;4.0;1200,32;Credit Card;2024-09-13;Kanyon;ITM-101
+I100119;C388761;Female;24.0;Cosmetics;1.0;40,66;Debit Card;2023-03-12;Metropol AVM;ITM-111
+I100120;C398418;Male;34.0;Toys;5.0;179,20;Cash;2024-11-04;Zorlu Center;ITM-122
+I100121;C395861;Female;46.0;Food & Beverage;2.0;10,46;Credit Card;2023-06-23;Forum Istanbul;ITM-115
+I100122;C385816;Male;60.0;Books;4.0;60,60;Credit Card;2024-08-10;Metrocity;ITM-109
+I100123;C350088;Female;29.0;Shoes;1.0;300,08;Debit Card;2023-07-05;Akasya;ITM-116
+I100124;C319088;Male;39.0;Technology;3.0;6300,00;Cash;2024-03-01;Emaar Square Mall;ITM-106
+I100125;C357469;Female;54.0;Clothing;2.0;600,16;Credit Card;2023-05-07;Istinye Park;ITM-103
+I100126;C344248;Male;27.0;Souvenir;2.0;41,90;Credit Card;2024-04-18;Cevahir AVM;ITM-119
+I100127;C313823;Female;41.0;Cosmetics;3.0;121,98;Debit Card;2023-10-13;Kanyon;ITM-110
+I100128;C356037;Male;69.0;Food & Beverage;1.0;5,23;Cash;2024-09-29;Metropol AVM;ITM-115
+I100129;C337681;Female;32.0;Toys;3.0;107,52;Credit Card;2023-01-02;Zorlu Center;ITM-124
+I100130;C348981;Male;25.0;Clothing;4.0;1200,32;Credit Card;2024-02-25;Forum Istanbul;ITM-103
+I100131;C315682;Female;48.0;Books;5.0;75,75;Debit Card;2023-12-21;Metrocity;ITM-108
+I100132;C366181;Male;36.0;Shoes;2.0;600,16;Cash;2024-11-15;Akasya;ITM-117
+I100133;C363629;Female;47.0;Technology;1.0;2100,00;Credit Card;2023-05-24;Emaar Square Mall;ITM-105
+I100134;C392534;Male;53.0;Food & Beverage;4.0;20,92;Credit Card;2024-07-28;Istinye Park;ITM-113
+I100135;C318413;Female;28.0;Cosmetics;2.0;81,32;Debit Card;2023-06-12;Cevahir AVM;ITM-111
+I100136;C311244;Male;31.0;Souvenir;1.0;20,95;Cash;2024-01-07;Kanyon;ITM-119
+I100137;C353031;Female;42.0;Clothing;3.0;900,24;Credit Card;2023-03-09;Metropol AVM;ITM-101
+I100138;C352003;Male;59.0;Toys;2.0;71,68;Credit Card;2024-08-08;Zorlu Center;ITM-123
+I100139;C375835;Female;34.0;Books;3.0;45,45;Debit Card;2023-09-27;Forum Istanbul;ITM-108
+I100140;C394371;Male;26.0;Shoes;4.0;1200,32;Cash;2024-04-22;Metrocity;ITM-117
+I100141;C332231;Female;64.0;Technology;2.0;4200,00;Credit Card;2023-04-27;Akasya;ITM-106
+I100142;C355651;Male;40.0;Food & Beverage;5.0;26,15;Credit Card;2024-11-07;Emaar Square Mall;ITM-114
+I100143;C370370;Female;55.0;Cosmetics;1.0;40,66;Debit Card;2023-06-11;Istinye Park;ITM-112
+I100144;C365743;Male;24.0;Clothing;5.0;1500,40;Cash;2024-03-06;Cevahir AVM;ITM-101
+I100145;C347517;Female;27.0;Souvenir;4.0;83,80;Credit Card;2023-10-02;Kanyon;ITM-121
+I100146;C328021;Male;44.0;Books;2.0;30,30;Credit Card;2024-12-27;Metropol AVM;ITM-108
+I100147;C314863;Female;33.0;Shoes;1.0;300,08;Debit Card;2023-07-10;Zorlu Center;ITM-116
+I100148;C326733;Male;38.0;Toys;3.0;107,52;Cash;2024-03-20;Forum Istanbul;ITM-122
+I100149;C351211;Female;49.0;Technology;3.0;6300,00;Credit Card;2023-05-12;Metrocity;ITM-104
+I100150;C339330;Male;62.0;Food & Beverage;1.0;5,23;Credit Card;2024-05-21;Akasya;ITM-115
+I100151;C374028;Female;31.0;Clothing;2.0;600,16;Debit Card;2023-08-15;Emaar Square Mall;ITM-102
+I100152;C388331;Male;29.0;Cosmetics;4.0;162,64;Cash;2024-01-13;Istinye Park;ITM-110
+I100153;C379589;Female;41.0;Books;1.0;15,15;Credit Card;2023-12-01;Cevahir AVM;ITM-107
+I100154;C397825;Male;32.0;Shoes;3.0;900,24;Credit Card;2024-02-06;Kanyon;ITM-116
+I100155;C319934;Female;50.0;Souvenir;5.0;104,75;Debit Card;2023-07-02;Metropol AVM;ITM-121
+I100156;C347071;Male;25.0;Toys;2.0;71,68;Cash;2024-09-25;Zorlu Center;ITM-124
+I100157;C330462;Female;35.0;Technology;2.0;4200,00;Credit Card;2023-04-01;Forum Istanbul;ITM-105
+I100158;C342442;Male;68.0;Food & Beverage;4.0;20,92;Credit Card;2024-11-02;Metrocity;ITM-115
+I100159;C321582;Female;23.0;Clothing;1.0;300,08;Debit Card;2023-01-12;Akasya;ITM-101
+I100160;C360783;Male;43.0;Cosmetics;3.0;121,98;Cash;2024-06-17;Emaar Square Mall;ITM-111
+I100161;C396041;Female;39.0;Books;3.0;45,45;Credit Card;2023-02-27;Istinye Park;ITM-107
+I100162;C358623;Male;56.0;Shoes;1.0;300,08;Credit Card;2024-10-16;Cevahir AVM;ITM-116
+I100163;C376615;Female;30.0;Souvenir;2.0;41,90;Debit Card;2023-07-24;Kanyon;ITM-121
+I100164;C329043;Male;22.0;Toys;4.0;143,36;Cash;2024-09-07;Metropol AVM;ITM-123
+I100165;C311756;Female;45.0;Technology;1.0;5250,00;Credit Card;2023-04-23;Zorlu Center;ITM-106
+I100166;C325521;Male;61.0;Food & Beverage;5.0;26,15;Credit Card;2024-11-18;Forum Istanbul;ITM-115
+I100167;C337123;Female;28.0;Clothing;3.0;900,24;Debit Card;2023-08-03;Metrocity;ITM-102
+I100168;C342023;Male;34.0;Cosmetics;2.0;81,32;Cash;2024-02-17;Akasya;ITM-110
+I100169;C380015;Female;51.0;Books;1.0;15,15;Credit Card;2023-03-26;Emaar Square Mall;ITM-107
+I100170;C369113;Male;47.0;Shoes;2.0;600,16;Credit Card;2024-10-22;Istinye Park;ITM-117
+I100171;C315267;Female;37.0;Souvenir;3.0;62,85;Debit Card;2023-03-13;Cevahir AVM;ITM-119
+I100172;C380337;Male;20.0;Toys;5.0;179,20;Cash;2024-05-03;Kanyon;ITM-123
+I100173;C324167;Female;67.0;Technology;4.0;8400,00;Credit Card;2023-12-16;Metropol AVM;ITM-105
+I100174;C368153;Male;42.0;Food & Beverage;2.0;10,46;Credit Card;2024-11-09;Zorlu Center;ITM-115
+I100175;C362725;Female;36.0;Clothing;1.0;300,08;Debit Card;2023-08-28;Forum Istanbul;ITM-102
+I100176;C336113;Male;58.0;Cosmetics;2.0;81,32;Cash;2024-04-10;Metrocity;ITM-112
+I100177;C350462;Female;26.0;Books;4.0;60,60;Credit Card;2023-08-22;Akasya;ITM-107
+I100178;C372951;Male;33.0;Shoes;3.0;900,24;Credit Card;2024-01-17;Emaar Square Mall;ITM-116
+I100179;C327079;Female;45.0;Clothing;5.0;1500,40;Credit Card;2023-08-11;Cevahir AVM;ITM-101
+I100180;C359833;Male;38.0;Food & Beverage;2.0;10,46;Cash;2024-06-01;Kanyon;ITM-113
+I100181;C312831;Male;58.0;Technology;1.0;5250,00;Debit Card;2023-03-15;Forum Istanbul;ITM-106
+I100182;C339666;Female;42.0;Clothing;3.0;900,24;Credit Card;2024-02-18;Metrocity;ITM-101
+I100183;C381489;Female;50.0;Souvenir;4.0;83,80;Credit Card;2023-10-21;Istinye Park;ITM-120
+I100184;C319533;Female;27.0;Cosmetics;2.0;81,32;Cash;2024-01-09;Zorlu Center;ITM-111
+I100185;C395461;Male;33.0;Shoes;2.0;600,16;Credit Card;2023-04-26;Metropol AVM;ITM-117
+I100186;C328334;Male;23.0;Toys;3.0;107,52;Debit Card;2024-12-07;Cevahir AVM;ITM-124
+I100187;C335106;Female;72.0;Books;5.0;75,75;Credit Card;2023-07-30;Kanyon;ITM-107
+I100188;C319227;Female;35.0;Clothing;4.0;1200,32;Credit Card;2024-08-22;Metrocity;ITM-101
+I100189;C369773;Male;60.0;Technology;3.0;15750,00;Cash;2023-09-17;Forum Istanbul;ITM-104
+I100190;C351833;Male;47.0;Food & Beverage;1.0;5,23;Debit Card;2024-05-13;Istinye Park;ITM-115
+I100191;C381391;Female;41.0;Shoes;1.0;300,08;Credit Card;2023-03-03;Metropol AVM;ITM-117
+I100192;C365615;Male;54.0;Cosmetics;2.0;81,32;Cash;2024-06-25;Zorlu Center;ITM-111
+I100193;C369056;Female;29.0;Clothing;2.0;600,16;Credit Card;2023-10-18;Cevahir AVM;ITM-101
+I100194;C381011;Female;33.0;Food & Beverage;4.0;20,92;Debit Card;2024-01-24;Kanyon;ITM-114
+I100195;C345163;Male;28.0;Toys;1.0;35,84;Cash;2023-04-09;Metrocity;ITM-123
+I100196;C349727;Female;40.0;Technology;1.0;2100,00;Credit Card;2024-02-11;Forum Istanbul;ITM-106
+I100197;C399622;Female;57.0;Books;2.0;30,30;Credit Card;2023-09-14;Istinye Park;ITM-109
+I100198;C375313;Male;19.0;Shoes;3.0;900,24;Debit Card;2024-08-29;Metropol AVM;ITM-118
+I100199;C355293;Male;29.0;Clothing;1.0;300,08;Credit Card;2023-11-23;Cevahir AVM;ITM-103
+I100200;C379268;Female;38.0;Cosmetics;3.0;121,98;Cash;2024-05-01;Zorlu Center;ITM-110
+I100201;C395291;Female;44.0;Food & Beverage;5.0;26,15;Credit Card;2023-01-18;Kanyon;ITM-115
+I100202;C359952;Male;52.0;Technology;2.0;4200,00;Debit Card;2024-07-06;Forum Istanbul;ITM-105
+I100203;C395430;Female;36.0;Shoes;4.0;1200,32;Credit Card;2023-12-12;Metrocity;ITM-116
+I100204;C359321;Male;65.0;Books;3.0;45,45;Cash;2024-02-03;Istinye Park;ITM-108
+I100205;C389667;Female;47.0;Clothing;2.0;600,16;Credit Card;2023-10-29;Metropol AVM;ITM-102
+I100206;C339531;Male;35.0;Souvenir;5.0;104,75;Debit Card;2024-06-16;Zorlu Center;ITM-120
+I100207;C349083;Male;64.0;Cosmetics;2.0;81,32;Credit Card;2023-03-22;Akasya;ITM-112
+I100208;C339862;Female;23.0;Toys;3.0;107,52;Cash;2024-11-01;Emaar Square Mall;ITM-124
+I100209;C375837;Male;18.0;Technology;4.0;8400,00;Credit Card;2023-08-05;Istinye Park;ITM-104
+I100210;C379160;Female;33.0;Shoes;5.0;1500,40;Debit Card;2024-07-14;Cevahir AVM;ITM-116
+I100211;C335983;Male;45.0;Books;1.0;15,15;Cash;2023-04-28;Kanyon;ITM-109
+I100212;C369282;Female;59.0;Food & Beverage;2.0;10,46;Credit Card;2024-10-10;Metropol AVM;ITM-114
+I100213;C389336;Female;26.0;Clothing;2.0;600,16;Credit Card;2023-09-05;Zorlu Center;ITM-101
+I100214;C319611;Male;39.0;Souvenir;3.0;62,85;Debit Card;2024-12-19;Forum Istanbul;ITM-121
+I100215;C355583;Male;70.0;Technology;5.0;26250,00;Credit Card;2023-02-23;Metrocity;ITM-106
+I100216;C359748;Female;43.0;Cosmetics;4.0;162,64;Cash;2024-05-30;Akasya;ITM-112
+I100217;C345239;Female;51.0;Food & Beverage;1.0;5,23;Credit Card;2023-08-18;Emaar Square Mall;ITM-114
+I100218;C349163;Male;24.0;Shoes;2.0;600,16;Debit Card;2024-07-12;Istinye Park;ITM-118
+I100219;C319411;Male;32.0;Clothing;3.0;900,24;Credit Card;2023-06-03;Cevahir AVM;ITM-103
+I100220;C399339;Female;28.0;Books;5.0;75,75;Cash;2024-03-08;Kanyon;ITM-109
+I100221;C365481;Female;46.0;Toys;2.0;71,68;Credit Card;2023-11-20;Metropol AVM;ITM-124
+I100222;C315677;Male;37.0;Technology;2.0;4200,00;Debit Card;2024-10-25;Zorlu Center;ITM-104
+I100223;C319338;Female;62.0;Cosmetics;1.0;40,66;Credit Card;2023-01-31;Forum Istanbul;ITM-110
+I100224;C355873;Male;55.0;Food & Beverage;4.0;20,92;Cash;2024-04-14;Metrocity;ITM-115
+I100225;C399962;Female;22.0;Clothing;5.0;1500,40;Credit Card;2023-12-28;Akasya;ITM-102
+I100226;C339283;Male;31.0;Shoes;4.0;1200,32;Debit Card;2024-09-22;Emaar Square Mall;ITM-116
+I100227;C315630;Male;40.0;Souvenir;2.0;41,90;Cash;2023-08-27;Istinye Park;ITM-121
+I100228;C339332;Female;34.0;Technology;3.0;6300,00;Credit Card;2024-02-13;Cevahir AVM;ITM-104
+I100229;C389031;Female;48.0;Books;3.0;45,45;Credit Card;2023-06-07;Kanyon;ITM-107
+I100230;C319283;Male;25.0;Toys;4.0;143,36;Debit Card;2024-02-01;Metropol AVM;ITM-123
+I100231;C349136;Male;53.0;Food & Beverage;2.0;10,46;Cash;2023-05-04;Zorlu Center;ITM-115
+I100232;C389333;Female;29.0;Clothing;1.0;300,08;Credit Card;2024-11-12;Forum Istanbul;ITM-103
+I100233;C369899;Female;67.0;Cosmetics;5.0;203,30;Credit Card;2023-10-06;Metrocity;ITM-111
+I100234;C399596;Male;36.0;Shoes;1.0;300,08;Debit Card;2024-07-21;Akasya;ITM-117
+I100235;C385523;Male;42.0;Technology;1.0;5250,00;Cash;2023-04-16;Emaar Square Mall;ITM-106
+I100236;C349726;Female;30.0;Food & Beverage;3.0;15,69;Credit Card;2024-03-24;Istinye Park;ITM-115
+I100237;C319161;Female;49.0;Clothing;2.0;600,16;Credit Card;2023-01-27;Cevahir AVM;ITM-102
+I100238;C355648;Male;20.0;Books;4.0;60,60;Debit Card;2024-08-01;Kanyon;ITM-107
+I100239;C345493;Female;56.0;Toys;2.0;71,68;Cash;2023-05-25;Metropol AVM;ITM-122
+I100240;C365553;Male;61.0;Souvenir;1.0;20,95;Credit Card;2024-11-30;Zorlu Center;ITM-120
+I100241;C325024;Female;38.0;Shoes;3.0;900,24;Credit Card;2023-02-20;Forum Istanbul;ITM-116
+I100242;C355077;Male;27.0;Cosmetics;2.0;81,32;Debit Card;2024-07-17;Metrocity;ITM-111
+I100243;C335145;Female;44.0;Technology;2.0;4200,00;Cash;2023-04-02;Akasya;ITM-104
+I100244;C375343;Male;50.0;Food & Beverage;5.0;26,15;Credit Card;2024-09-08;Emaar Square Mall;ITM-113
+I100245;C329310;Female;31.0;Clothing;4.0;1200,32;Credit Card;2023-12-03;Istinye Park;ITM-103
+I100246;C349657;Male;35.0;Books;5.0;75,75;Debit Card;2024-08-14;Cevahir AVM;ITM-109
+I100247;C339283;Female;28.0;Toys;1.0;35,84;Cash;2023-05-19;Kanyon;ITM-122
+I100248;C369345;Male;23.0;Shoes;2.0;600,16;Credit Card;2024-10-14;Metropol AVM;ITM-116
+I100249;C345448;Female;58.0;Cosmetics;3.0;121,98;Credit Card;2023-06-29;Zorlu Center;ITM-112
+I100250;C375331;Male;41.0;Technology;3.0;6300,00;Debit Card;2024-01-22;Forum Istanbul;ITM-106
+I100251;C359213;Female;63.0;Food & Beverage;2.0;10,46;Cash;2023-04-06;Metrocity;ITM-115
+I100252;C349036;Female;39.0;Clothing;1.0;300,08;Credit Card;2024-03-27;Akasya;ITM-102
+I100253;C385954;Male;48.0;Souvenir;2.0;41,90;Credit Card;2023-08-23;Emaar Square Mall;ITM-119
+I100254;C315955;Male;52.0;Books;2.0;30,30;Debit Card;2024-02-15;Istinye Park;ITM-109
+I100255;C315277;Female;33.0;Shoes;5.0;1500,40;Cash;2023-10-11;Cevahir AVM;ITM-116
+I100256;C395583;Female;26.0;Toys;4.0;143,36;Credit Card;2024-07-01;Kanyon;ITM-123
+I100257;C355974;Male;30.0;Technology;1.0;2100,00;Credit Card;2023-11-26;Metropol AVM;ITM-105
+I100258;C319227;Female;45.0;Cosmetics;4.0;162,64;Debit Card;2024-09-19;Zorlu Center;ITM-112
+I100259;C345876;Male;21.0;Clothing;3.0;900,24;Cash;2023-04-24;Forum Istanbul;ITM-102
+I100260;C329942;Female;57.0;Food & Beverage;3.0;15,69;Credit Card;2024-06-20;Metrocity;ITM-113
+I100261;C375724;Male;66.0;Books;1.0;15,15;Credit Card;2023-05-16;Akasya;ITM-109
+I100262;C359342;Female;22.0;Shoes;2.0;600,16;Debit Card;2024-12-08;Emaar Square Mall;ITM-116
+I100263;C335634;Male;43.0;Souvenir;3.0;62,85;Cash;2023-01-04;Istinye Park;ITM-119
+I100264;C315214;Female;37.0;Technology;2.0;10500,00;Credit Card;2024-02-08;Cevahir AVM;ITM-105
+I100265;C375312;Male;51.0;Clothing;4.0;1200,32;Credit Card;2023-09-13;Kanyon;ITM-102
+I100266;C385761;Female;24.0;Cosmetics;1.0;40,66;Debit Card;2024-03-12;Metropol AVM;ITM-111
+I100267;C395418;Male;34.0;Toys;5.0;179,20;Cash;2023-11-04;Zorlu Center;ITM-123
+I100268;C399586;Female;46.0;Food & Beverage;2.0;10,46;Credit Card;2024-06-23;Forum Istanbul;ITM-114
+I100269;C389581;Male;60.0;Books;4.0;60,60;Credit Card;2023-08-10;Metrocity;ITM-109
+I100270;C355088;Female;29.0;Shoes;1.0;300,08;Debit Card;2024-07-05;Akasya;ITM-116
+I100271;C315088;Male;39.0;Technology;3.0;6300,00;Cash;2023-03-01;Emaar Square Mall;ITM-104
+I100272;C359469;Female;54.0;Clothing;2.0;600,16;Credit Card;2024-05-07;Istinye Park;ITM-101
+I100273;C349248;Male;27.0;Souvenir;2.0;41,90;Credit Card;2023-04-18;Cevahir AVM;ITM-119
+I100274;C319823;Female;41.0;Cosmetics;3.0;121,98;Debit Card;2024-10-13;Kanyon;ITM-111
+I100275;C359037;Male;69.0;Food & Beverage;1.0;5,23;Cash;2023-09-29;Metropol AVM;ITM-113
+I100276;C339681;Female;32.0;Toys;3.0;107,52;Credit Card;2024-01-02;Zorlu Center;ITM-124
+I100277;C345981;Male;25.0;Clothing;4.0;1200,32;Credit Card;2023-02-25;Forum Istanbul;ITM-103
+I100278;C319682;Female;48.0;Books;5.0;75,75;Debit Card;2024-12-21;Metrocity;ITM-107
+I100279;C369181;Male;36.0;Shoes;2.0;600,16;Cash;2023-11-15;Akasya;ITM-116
+I100280;C369629;Female;47.0;Technology;1.0;2100,00;Credit Card;2024-05-24;Emaar Square Mall;ITM-106
+I100281;C395534;Male;53.0;Food & Beverage;4.0;20,92;Credit Card;2023-07-28;Istinye Park;ITM-115
+I100282;C315413;Female;28.0;Cosmetics;2.0;81,32;Debit Card;2024-06-12;Cevahir AVM;ITM-111
+I100283;C315244;Male;31.0;Souvenir;1.0;20,95;Cash;2023-01-07;Kanyon;ITM-121
+I100284;C359031;Female;42.0;Clothing;3.0;900,24;Credit Card;2024-03-09;Metropol AVM;ITM-102
+I100285;C359003;Male;59.0;Toys;2.0;71,68;Credit Card;2023-08-08;Zorlu Center;ITM-123
+I100286;C379835;Female;34.0;Books;3.0;45,45;Debit Card;2024-09-27;Forum Istanbul;ITM-108
+I100287;C399371;Male;26.0;Shoes;4.0;1200,32;Cash;2023-04-22;Metrocity;ITM-117
+I100288;C339231;Female;64.0;Technology;2.0;4200,00;Credit Card;2024-04-27;Akasya;ITM-105
+I100289;C359651;Male;40.0;Food & Beverage;5.0;26,15;Credit Card;2023-11-07;Emaar Square Mall;ITM-113
+I100290;C379370;Female;55.0;Cosmetics;1.0;40,66;Debit Card;2024-06-11;Istinye Park;ITM-112
+I100291;C369743;Male;24.0;Clothing;5.0;1500,40;Cash;2023-03-06;Cevahir AVM;ITM-102
+I100292;C349517;Female;27.0;Souvenir;4.0;83,80;Credit Card;2024-10-02;Kanyon;ITM-121
+I100293;C325021;Male;44.0;Books;2.0;30,30;Credit Card;2023-12-27;Metropol AVM;ITM-109
+I100294;C319863;Female;33.0;Shoes;1.0;300,08;Debit Card;2024-07-10;Zorlu Center;ITM-117
+I100295;C329733;Male;38.0;Toys;3.0;107,52;Cash;2023-03-20;Forum Istanbul;ITM-122
+I100296;C359211;Female;49.0;Technology;3.0;6300,00;Credit Card;2024-05-12;Metrocity;ITM-105
+I100297;C335330;Male;62.0;Food & Beverage;1.0;5,23;Credit Card;2023-05-21;Akasya;ITM-113
+I100298;C379028;Female;31.0;Clothing;2.0;600,16;Debit Card;2024-08-15;Emaar Square Mall;ITM-103
+I100299;C385331;Male;29.0;Cosmetics;4.0;162,64;Cash;2023-01-13;Istinye Park;ITM-110
+I100300;C375589;Female;41.0;Books;1.0;15,15;Credit Card;2024-12-01;Cevahir AVM;ITM-107
+I100301;C395825;Male;32.0;Shoes;3.0;900,24;Credit Card;2023-02-06;Kanyon;ITM-116
+I100302;C315934;Female;50.0;Souvenir;5.0;104,75;Debit Card;2024-07-02;Metropol AVM;ITM-121
+I100303;C345071;Male;25.0;Toys;2.0;71,68;Cash;2023-09-25;Zorlu Center;ITM-124
+I100304;C335462;Female;35.0;Technology;2.0;4200,00;Credit Card;2024-04-01;Forum Istanbul;ITM-104
+I100305;C349442;Male;68.0;Food & Beverage;4.0;20,92;Credit Card;2023-11-02;Metrocity;ITM-113
+I100306;C329582;Female;23.0;Clothing;1.0;300,08;Debit Card;2024-01-12;Akasya;ITM-102
+I100307;C369783;Male;43.0;Cosmetics;3.0;121,98;Cash;2023-06-17;Emaar Square Mall;ITM-110
+I100308;C399041;Female;39.0;Books;3.0;45,45;Credit Card;2024-02-27;Istinye Park;ITM-108
+I100309;C355623;Male;56.0;Shoes;1.0;300,08;Credit Card;2023-10-16;Cevahir AVM;ITM-116
+I100310;C379615;Female;30.0;Souvenir;2.0;41,90;Debit Card;2024-07-24;Kanyon;ITM-120
+I100311;C325043;Male;22.0;Toys;4.0;143,36;Cash;2023-09-07;Metropol AVM;ITM-124
+I100312;C315756;Female;45.0;Technology;1.0;5250,00;Credit Card;2024-04-23;Zorlu Center;ITM-104
+I100313;C329521;Male;61.0;Food & Beverage;5.0;26,15;Credit Card;2023-11-18;Forum Istanbul;ITM-113
+I100314;C339123;Female;28.0;Clothing;3.0;900,24;Debit Card;2024-08-03;Metrocity;ITM-101
+I100315;C349023;Male;34.0;Cosmetics;2.0;81,32;Cash;2023-02-17;Akasya;ITM-110
+I100316;C385015;Female;51.0;Books;1.0;15,15;Credit Card;2024-03-26;Emaar Square Mall;ITM-108
+I100317;C365113;Male;47.0;Shoes;2.0;600,16;Credit Card;2023-10-22;Istinye Park;ITM-116
+I100318;C319267;Female;37.0;Souvenir;3.0;62,85;Debit Card;2024-03-13;Cevahir AVM;ITM-121
+I100319;C385337;Male;20.0;Toys;5.0;179,20;Cash;2023-05-03;Kanyon;ITM-124
+I100320;C329167;Female;67.0;Technology;4.0;8400,00;Credit Card;2024-12-16;Metropol AVM;ITM-104
+I100321;C365153;Male;42.0;Food & Beverage;2.0;10,46;Credit Card;2023-11-09;Zorlu Center;ITM-115
+I100322;C369725;Female;36.0;Clothing;1.0;300,08;Debit Card;2024-08-28;Forum Istanbul;ITM-101
+I100323;C339113;Male;58.0;Cosmetics;2.0;81,32;Cash;2023-04-10;Metrocity;ITM-110
+I100324;C359462;Female;26.0;Books;4.0;60,60;Credit Card;2024-08-22;Akasya;ITM-109
+I100325;C379295;Male;33.0;Shoes;3.0;900,24;Credit Card;2023-01-17;Emaar Square Mall;ITM-116
+I100326;C325282;Female;59.0;Food & Beverage;2.0;10,46;Credit Card;2024-10-10;Metropol AVM;ITM-115
+I100327;C385336;Female;26.0;Clothing;2.0;600,16;Credit Card;2023-09-05;Zorlu Center;ITM-102
+I100328;C315611;Male;39.0;Souvenir;3.0;62,85;Debit Card;2024-12-19;Forum Istanbul;ITM-119
+I100329;C359583;Male;70.0;Technology;5.0;26250,00;Credit Card;2023-02-23;Metrocity;ITM-105
+I100330;C355748;Female;43.0;Cosmetics;4.0;162,64;Cash;2024-05-30;Akasya;ITM-112
+I100331;C349239;Female;51.0;Food & Beverage;1.0;5,23;Credit Card;2023-08-18;Emaar Square Mall;ITM-114
+I100332;C345163;Male;24.0;Shoes;2.0;600,16;Debit Card;2024-07-12;Istinye Park;ITM-117
+I100333;C315411;Male;32.0;Clothing;3.0;900,24;Credit Card;2023-06-03;Cevahir AVM;ITM-103
+I100334;C395339;Female;28.0;Books;5.0;75,75;Cash;2024-03-08;Kanyon;ITM-108
+I100335;C369481;Female;46.0;Toys;2.0;71,68;Credit Card;2023-11-20;Metropol AVM;ITM-123
+I100336;C319677;Male;37.0;Technology;2.0;4200,00;Debit Card;2024-10-25;Zorlu Center;ITM-106
+I100337;C315338;Female;62.0;Cosmetics;1.0;40,66;Credit Card;2023-01-31;Forum Istanbul;ITM-111
+I100338;C359873;Male;55.0;Food & Beverage;4.0;20,92;Cash;2024-04-14;Metrocity;ITM-115
+I100339;C395962;Female;22.0;Clothing;5.0;1500,40;Credit Card;2023-12-28;Akasya;ITM-102
+I100340;C335283;Male;31.0;Shoes;4.0;1200,32;Debit Card;2024-09-22;Emaar Square Mall;ITM-118
+I100341;C319630;Male;40.0;Souvenir;2.0;41,90;Cash;2023-08-27;Istinye Park;ITM-121
+I100342;C335332;Female;34.0;Technology;3.0;6300,00;Credit Card;2024-02-13;Cevahir AVM;ITM-105
+I100343;C385031;Female;48.0;Books;3.0;45,45;Credit Card;2023-06-07;Kanyon;ITM-108
+I100344;C315283;Male;25.0;Toys;4.0;143,36;Debit Card;2024-02-01;Metropol AVM;ITM-123
+I100345;C349136;Male;53.0;Food & Beverage;2.0;10,46;Cash;2023-05-04;Zorlu Center;ITM-113
+I100346;C385333;Female;29.0;Clothing;1.0;300,08;Credit Card;2024-11-12;Forum Istanbul;ITM-101
+I100347;C365899;Female;67.0;Cosmetics;5.0;203,30;Credit Card;2023-10-06;Metrocity;ITM-110
+I100348;C395596;Male;36.0;Shoes;1.0;300,08;Debit Card;2024-07-21;Akasya;ITM-118
+I100349;C389523;Male;42.0;Technology;1.0;5250,00;Cash;2023-04-16;Emaar Square Mall;ITM-105
+I100350;C345726;Female;30.0;Food & Beverage;3.0;15,69;Credit Card;2024-03-24;Istinye Park;ITM-115
+I100351;C315161;Female;49.0;Clothing;2.0;600,16;Credit Card;2023-01-27;Cevahir AVM;ITM-101
+I100352;C359648;Male;20.0;Books;4.0;60,60;Debit Card;2024-08-01;Kanyon;ITM-108
+I100353;C349493;Female;56.0;Toys;2.0;71,68;Cash;2023-05-25;Metropol AVM;ITM-124
+I100354;C369553;Male;61.0;Souvenir;1.0;20,95;Credit Card;2024-11-30;Zorlu Center;ITM-120
+I100355;C329024;Female;38.0;Shoes;3.0;900,24;Credit Card;2023-02-20;Forum Istanbul;ITM-118
+I100356;C359077;Male;27.0;Cosmetics;2.0;81,32;Debit Card;2024-07-17;Metrocity;ITM-111
+I100357;C339145;Female;44.0;Technology;2.0;4200,00;Cash;2023-04-02;Akasya;ITM-104
+I100358;C379343;Male;50.0;Food & Beverage;5.0;26,15;Credit Card;2024-09-08;Emaar Square Mall;ITM-113
+I100359;C329310;Female;31.0;Clothing;4.0;1200,32;Credit Card;2023-12-03;Istinye Park;ITM-102
+I100360;C349657;Male;35.0;Books;5.0;75,75;Debit Card;2024-08-14;Cevahir AVM;ITM-109
+I100361;C335283;Female;28.0;Toys;1.0;35,84;Cash;2023-05-19;Kanyon;ITM-122
+I100362;C369345;Male;23.0;Shoes;2.0;600,16;Credit Card;2024-10-14;Metropol AVM;ITM-116
+I100363;C349448;Female;58.0;Cosmetics;3.0;121,98;Credit Card;2023-06-29;Zorlu Center;ITM-110
+I100364;C379331;Male;41.0;Technology;3.0;6300,00;Debit Card;2024-01-22;Forum Istanbul;ITM-105
+I100365;C359213;Female;63.0;Food & Beverage;2.0;10,46;Cash;2023-04-06;Metrocity;ITM-114
+I100366;C349036;Female;39.0;Clothing;1.0;300,08;Credit Card;2024-03-27;Akasya;ITM-103
+I100367;C389954;Male;48.0;Souvenir;2.0;41,90;Credit Card;2023-08-23;Emaar Square Mall;ITM-121
+I100368;C319955;Male;52.0;Books;2.0;30,30;Debit Card;2024-02-15;Istinye Park;ITM-109
+I100369;C319277;Female;33.0;Shoes;5.0;1500,40;Cash;2023-10-11;Cevahir AVM;ITM-117
+I100370;C399583;Female;26.0;Toys;4.0;143,36;Credit Card;2024-07-01;Kanyon;ITM-123
+I100371;C359974;Male;30.0;Technology;1.0;2100,00;Credit Card;2023-11-26;Metropol AVM;ITM-106
+I100372;C319227;Female;45.0;Cosmetics;4.0;162,64;Debit Card;2024-09-19;Zorlu Center;ITM-112
+I100373;C349876;Male;21.0;Clothing;3.0;900,24;Cash;2023-04-24;Forum Istanbul;ITM-102
+I100374;C329942;Female;57.0;Food & Beverage;3.0;15,69;Credit Card;2024-06-20;Metrocity;ITM-115
+I100375;C379724;Male;66.0;Books;1.0;15,15;Credit Card;2023-05-16;Akasya;ITM-107
+I100376;C359342;Female;22.0;Shoes;2.0;600,16;Debit Card;2024-12-08;Emaar Square Mall;ITM-117
+I100377;C339634;Male;43.0;Souvenir;3.0;62,85;Cash;2023-01-04;Istinye Park;ITM-121
+I100378;C319214;Female;37.0;Technology;2.0;10500,00;Credit Card;2024-02-08;Cevahir AVM;ITM-105
+I100379;C379312;Male;51.0;Clothing;4.0;1200,32;Credit Card;2023-09-13;Kanyon;ITM-101
+I100380;C389761;Female;24.0;Cosmetics;1.0;40,66;Debit Card;2024-03-12;Metropol AVM;ITM-111
+I100381;C399418;Male;34.0;Toys;5.0;179,20;Cash;2023-11-04;Zorlu Center;ITM-123
+I100382;C399586;Female;46.0;Food & Beverage;2.0;10,46;Credit Card;2024-06-23;Forum Istanbul;ITM-114
+I100383;C389581;Male;60.0;Books;4.0;60,60;Credit Card;2023-08-10;Metrocity;ITM-108
+I100384;C359088;Female;29.0;Shoes;1.0;300,08;Debit Card;2024-07-05;Akasya;ITM-116
+I100385;C319088;Male;39.0;Technology;3.0;6300,00;Cash;2023-03-01;Emaar Square Mall;ITM-105
+I100386;C359469;Female;54.0;Clothing;2.0;600,16;Credit Card;2024-05-07;Istinye Park;ITM-102
+I100387;C349248;Male;27.0;Souvenir;2.0;41,90;Credit Card;2023-04-18;Cevahir AVM;ITM-121
+I100388;C319823;Female;41.0;Cosmetics;3.0;121,98;Debit Card;2024-10-13;Kanyon;ITM-111
+I100389;C359037;Male;69.0;Food & Beverage;1.0;5,23;Cash;2023-09-29;Metropol AVM;ITM-115
+I100390;C339681;Female;32.0;Toys;3.0;107,52;Credit Card;2024-01-02;Zorlu Center;ITM-122
+I100391;C349981;Male;25.0;Clothing;4.0;1200,32;Credit Card;2023-02-25;Forum Istanbul;ITM-101
+I100392;C319682;Female;48.0;Books;5.0;75,75;Debit Card;2024-12-21;Metrocity;ITM-107
+I100393;C369181;Male;36.0;Shoes;2.0;600,16;Cash;2023-11-15;Akasya;ITM-116
+I100394;C369629;Female;47.0;Technology;1.0;2100,00;Credit Card;2024-05-24;Emaar Square Mall;ITM-106
+I100395;C399534;Male;53.0;Food & Beverage;4.0;20,92;Credit Card;2023-07-28;Istinye Park;ITM-114
+I100396;C319413;Female;28.0;Cosmetics;2.0;81,32;Debit Card;2024-06-12;Cevahir AVM;ITM-110
+I100397;C319244;Male;31.0;Souvenir;1.0;20,95;Cash;2023-01-07;Kanyon;ITM-120
+I100398;C359031;Female;42.0;Clothing;3.0;900,24;Credit Card;2024-03-09;Metropol AVM;ITM-103
+I100399;C359003;Male;59.0;Toys;2.0;71,68;Credit Card;2023-08-08;Zorlu Center;ITM-124
+I100400;C379835;Female;34.0;Books;3.0;45,45;Debit Card;2024-09-27;Forum Istanbul;ITM-109
+I100401;C399371;Male;26.0;Shoes;4.0;1200,32;Cash;2023-04-22;Metrocity;ITM-116
+I100402;C339231;Female;64.0;Technology;2.0;4200,00;Credit Card;2024-04-27;Akasya;ITM-105
+I100403;C359651;Male;40.0;Food & Beverage;5.0;26,15;Credit Card;2023-11-07;Emaar Square Mall;ITM-114
+I100404;C379370;Female;55.0;Cosmetics;1.0;40,66;Debit Card;2024-06-11;Istinye Park;ITM-111
+I100405;C369743;Male;24.0;Clothing;5.0;1500,40;Cash;2023-03-06;Cevahir AVM;ITM-103
+I100406;C349517;Female;27.0;Souvenir;4.0;83,80;Credit Card;2024-10-02;Kanyon;ITM-119
+I100407;C329021;Male;44.0;Books;2.0;30,30;Credit Card;2023-12-27;Metropol AVM;ITM-109
+I100408;C319863;Female;33.0;Shoes;1.0;300,08;Debit Card;2024-07-10;Zorlu Center;ITM-118
+I100409;C329733;Male;38.0;Toys;3.0;107,52;Cash;2023-03-20;Forum Istanbul;ITM-123
+I100410;C359211;Female;49.0;Technology;3.0;6300,00;Credit Card;2024-05-12;Metrocity;ITM-106
+I100411;C339330;Male;62.0;Food & Beverage;1.0;5,23;Credit Card;2023-05-21;Akasya;ITM-114
+I100412;C379028;Female;31.0;Clothing;2.0;600,16;Debit Card;2024-08-15;Emaar Square Mall;ITM-101
+I100413;C389331;Male;29.0;Cosmetics;4.0;162,64;Cash;2023-01-13;Istinye Park;ITM-111
+I100414;C379589;Female;41.0;Books;1.0;15,15;Credit Card;2024-12-01;Cevahir AVM;ITM-107
+I100415;C399825;Male;32.0;Shoes;3.0;900,24;Credit Card;2023-02-06;Kanyon;ITM-117
+I100416;C319934;Female;50.0;Souvenir;5.0;104,75;Debit Card;2024-07-02;Metropol AVM;ITM-121
+I100417;C349071;Male;25.0;Toys;2.0;71,68;Cash;2023-09-25;Zorlu Center;ITM-124
+I100418;C339462;Female;35.0;Technology;2.0;4200,00;Credit Card;2024-04-01;Forum Istanbul;ITM-104
+I100419;C349442;Male;68.0;Food & Beverage;4.0;20,92;Credit Card;2023-11-02;Metrocity;ITM-113
+I100420;C329582;Female;23.0;Clothing;1.0;300,08;Debit Card;2024-01-12;Akasya;ITM-101
+I100421;C369783;Male;43.0;Cosmetics;3.0;121,98;Cash;2023-06-17;Emaar Square Mall;ITM-111
+I100422;C399041;Female;39.0;Books;3.0;45,45;Credit Card;2024-02-27;Istinye Park;ITM-108
+I100423;C359623;Male;56.0;Shoes;1.0;300,08;Credit Card;2023-10-16;Cevahir AVM;ITM-116
+I100424;C379615;Female;30.0;Souvenir;2.0;41,90;Debit Card;2024-07-24;Kanyon;ITM-121
+I100425;C329043;Male;22.0;Toys;4.0;143,36;Cash;2023-09-07;Metropol AVM;ITM-123
+I100426;C319756;Female;45.0;Technology;1.0;5250,00;Credit Card;2024-04-23;Zorlu Center;ITM-105
+I100427;C329521;Male;61.0;Food & Beverage;5.0;26,15;Credit Card;2023-11-18;Forum Istanbul;ITM-114
+I100428;C339123;Female;28.0;Clothing;3.0;900,24;Debit Card;2024-08-03;Metrocity;ITM-101
+I100429;C349023;Male;34.0;Cosmetics;2.0;81,32;Cash;2023-02-17;Akasya;ITM-110
+I100430;C389015;Female;51.0;Books;1.0;15,15;Credit Card;2024-03-26;Emaar Square Mall;ITM-107
+I100431;C369113;Male;47.0;Shoes;2.0;600,16;Credit Card;2023-10-22;Istinye Park;ITM-116
+I100432;C319267;Female;37.0;Souvenir;3.0;62,85;Debit Card;2024-03-13;Cevahir AVM;ITM-119
+I100433;C389337;Male;20.0;Toys;5.0;179,20;Cash;2023-05-03;Kanyon;ITM-124
+I100434;C329167;Female;67.0;Technology;4.0;8400,00;Credit Card;2024-12-16;Metropol AVM;ITM-106
+I100435;C369153;Male;42.0;Food & Beverage;2.0;10,46;Credit Card;2023-11-09;Zorlu Center;ITM-113
+I100436;C369725;Female;36.0;Clothing;1.0;300,08;Debit Card;2024-08-28;Forum Istanbul;ITM-102
+I100437;C339113;Male;58.0;Cosmetics;2.0;81,32;Cash;2023-04-10;Metrocity;ITM-110
+I100438;C359462;Female;26.0;Books;4.0;60,60;Credit Card;2024-08-22;Akasya;ITM-109
+I100439;C379295;Male;33.0;Shoes;3.0;900,24;Credit Card;2023-01-17;Emaar Square Mall;ITM-118
+I100440;C329282;Female;59.0;Food & Beverage;2.0;10,46;Credit Card;2024-10-10;Metropol AVM;ITM-114
+I100441;C389336;Female;26.0;Clothing;2.0;600,16;Credit Card;2023-09-05;Zorlu Center;ITM-103
+I100442;C319611;Male;39.0;Souvenir;3.0;62,85;Debit Card;2024-12-19;Forum Istanbul;ITM-119
+I100443;C359583;Male;70.0;Technology;5.0;26250,00;Credit Card;2023-02-23;Metrocity;ITM-105
+I100444;C359748;Female;43.0;Cosmetics;4.0;162,64;Cash;2024-05-30;Akasya;ITM-110
+I100445;C349239;Female;51.0;Food & Beverage;1.0;5,23;Credit Card;2023-08-18;Emaar Square Mall;ITM-113
+I100446;C349163;Male;24.0;Shoes;2.0;600,16;Debit Card;2024-07-12;Istinye Park;ITM-117
+I100447;C319411;Male;32.0;Clothing;3.0;900,24;Credit Card;2023-06-03;Cevahir AVM;ITM-101
+I100448;C399339;Female;28.0;Books;5.0;75,75;Cash;2024-03-08;Kanyon;ITM-109
+I100449;C369481;Female;46.0;Toys;2.0;71,68;Credit Card;2023-11-20;Metropol AVM;ITM-122
+I100450;C319677;Male;37.0;Technology;2.0;4200,00;Debit Card;2024-10-25;Zorlu Center;ITM-105
+I100451;C319338;Female;62.0;Cosmetics;1.0;40,66;Credit Card;2023-01-31;Forum Istanbul;ITM-111
+I100452;C359873;Male;55.0;Food & Beverage;4.0;20,92;Cash;2024-04-14;Metrocity;ITM-114
+I100453;C399962;Female;22.0;Clothing;5.0;1500,40;Credit Card;2023-12-28;Akasya;ITM-101
+I100454;C339283;Male;31.0;Shoes;4.0;1200,32;Debit Card;2024-09-22;Emaar Square Mall;ITM-117
+I100455;C319630;Male;40.0;Souvenir;2.0;41,90;Cash;2023-08-27;Istinye Park;ITM-120
+I100456;C339332;Female;34.0;Technology;3.0;6300,00;Credit Card;2024-02-13;Cevahir AVM;ITM-104
+I100457;C389031;Female;48.0;Books;3.0;45,45;Credit Card;2023-06-07;Kanyon;ITM-109
+I100458;C319283;Male;25.0;Toys;4.0;143,36;Debit Card;2024-02-01;Metropol AVM;ITM-122
+I100459;C349136;Male;53.0;Food & Beverage;2.0;10,46;Cash;2023-05-04;Zorlu Center;ITM-114
+I100460;C389333;Female;29.0;Clothing;1.0;300,08;Credit Card;2024-11-12;Forum Istanbul;ITM-102
+I100461;C369899;Female;67.0;Cosmetics;5.0;203,30;Credit Card;2023-10-06;Metrocity;ITM-110
+I100462;C399596;Male;36.0;Shoes;1.0;300,08;Debit Card;2024-07-21;Akasya;ITM-118
+I100463;C389523;Male;42.0;Technology;1.0;5250,00;Cash;2023-04-16;Emaar Square Mall;ITM-105
+I100464;C349726;Female;30.0;Food & Beverage;3.0;15,69;Credit Card;2024-03-24;Istinye Park;ITM-114
+I100465;C319161;Female;49.0;Clothing;2.0;600,16;Credit Card;2023-01-27;Cevahir AVM;ITM-102
+I100466;C359648;Male;20.0;Books;4.0;60,60;Debit Card;2024-08-01;Kanyon;ITM-107
+I100467;C349493;Female;56.0;Toys;2.0;71,68;Cash;2023-05-25;Metropol AVM;ITM-123
+I100468;C369553;Male;61.0;Souvenir;1.0;20,95;Credit Card;2024-11-30;Zorlu Center;ITM-121
+I100469;C329024;Female;38.0;Shoes;3.0;900,24;Credit Card;2023-02-20;Forum Istanbul;ITM-117
+I100470;C359077;Male;27.0;Cosmetics;2.0;81,32;Debit Card;2024-07-17;Metrocity;ITM-111
+I100471;C339145;Female;44.0;Technology;2.0;4200,00;Cash;2023-04-02;Akasya;ITM-106
+I100472;C379343;Male;50.0;Food & Beverage;5.0;26,15;Credit Card;2024-09-08;Emaar Square Mall;ITM-114
+I100473;C329310;Female;31.0;Clothing;4.0;1200,32;Credit Card;2023-12-03;Istinye Park;ITM-101
+I100474;C349657;Male;35.0;Books;5.0;75,75;Debit Card;2024-08-14;Cevahir AVM;ITM-107
+I100475;C339283;Female;28.0;Toys;1.0;35,84;Cash;2023-05-19;Kanyon;ITM-122
+I100476;C369345;Male;23.0;Shoes;2.0;600,16;Credit Card;2024-10-14;Metropol AVM;ITM-118
+I100477;C349448;Female;58.0;Cosmetics;3.0;121,98;Credit Card;2023-06-29;Zorlu Center;ITM-111
+I100478;C379331;Male;41.0;Technology;3.0;6300,00;Debit Card;2024-01-22;Forum Istanbul;ITM-104
+I100479;C359213;Female;63.0;Food & Beverage;2.0;10,46;Cash;2023-04-06;Metrocity;ITM-115
+I100480;C349036;Female;39.0;Clothing;1.0;300,08;Credit Card;2024-03-27;Akasya;ITM-102
+I100481;C389954;Male;48.0;Souvenir;2.0;41,90;Credit Card;2023-08-23;Emaar Square Mall;ITM-121
+I100482;C319955;Male;52.0;Books;2.0;30,30;Debit Card;2024-02-15;Istinye Park;ITM-107
+I100483;C319277;Female;33.0;Shoes;5.0;1500,40;Cash;2023-10-11;Cevahir AVM;ITM-116
+I100484;C399583;Female;26.0;Toys;4.0;143,36;Credit Card;2024-07-01;Kanyon;ITM-122
+I100485;C359974;Male;30.0;Technology;1.0;2100,00;Credit Card;2023-11-26;Metropol AVM;ITM-106
+I100486;C319227;Female;45.0;Cosmetics;4.0;162,64;Debit Card;2024-09-19;Zorlu Center;ITM-112
+I100487;C349876;Male;21.0;Clothing;3.0;900,24;Cash;2023-04-24;Forum Istanbul;ITM-101
+I100488;C329942;Female;57.0;Food & Beverage;3.0;15,69;Credit Card;2024-06-20;Metrocity;ITM-115
+I100489;C379724;Male;66.0;Books;1.0;15,15;Credit Card;2023-05-16;Akasya;ITM-107
+I100490;C359342;Female;22.0;Shoes;2.0;600,16;Debit Card;2024-12-08;Emaar Square Mall;ITM-116
+I100491;C339634;Male;43.0;Souvenir;3.0;62,85;Cash;2023-01-04;Istinye Park;ITM-120
+I100492;C319214;Female;37.0;Technology;2.0;10500,00;Credit Card;2024-02-08;Cevahir AVM;ITM-106
+I100493;C379312;Male;51.0;Clothing;4.0;1200,32;Credit Card;2023-09-13;Kanyon;ITM-101
+I100494;C389761;Female;24.0;Cosmetics;1.0;40,66;Debit Card;2024-03-12;Metropol AVM;ITM-110
+I100495;C399418;Male;34.0;Toys;5.0;179,20;Cash;2023-11-04;Zorlu Center;ITM-124
+I100496;C399586;Female;46.0;Food & Beverage;2.0;10,46;Credit Card;2024-06-23;Forum Istanbul;ITM-114
+I100497;C389581;Male;60.0;Books;4.0;60,60;Credit Card;2023-08-10;Metrocity;ITM-108
+I100498;C359088;Female;29.0;Shoes;1.0;300,08;Debit Card;2024-07-05;Akasya;ITM-116
+I100499;C319088;Male;39.0;Technology;3.0;6300,00;Cash;2023-03-01;Emaar Square Mall;ITM-106
+I100500;C359469;Female;54.0;Clothing;2.0;600,16;Credit Card;2024-05-07;Istinye Park;ITM-102
+I100501;C349248;Male;27.0;Souvenir;2.0;41,90;Credit Card;2023-04-18;Cevahir AVM;ITM-121
+I100502;C319823;Female;41.0;Cosmetics;3.0;121,98;Debit Card;2024-10-13;Kanyon;ITM-112
+I100503;C359037;Male;69.0;Food & Beverage;1.0;5,23;Cash;2023-09-29;Metropol AVM;ITM-113
+```;;;;Unknown;;nan;;;;ITM-000
